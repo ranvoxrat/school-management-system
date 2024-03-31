@@ -128,7 +128,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
--   Migrate your database
+-   Migrate your databaseh
 
 ```bash
 php artisan migrate
